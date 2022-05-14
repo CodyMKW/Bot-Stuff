@@ -1,0 +1,38 @@
+{
+  "systems": [
+    [
+      "Nintendo Entertainment System",
+      "Super Nintendo Entertainment System",
+      "Nintendo 64",
+      "Nintendo GameCube",
+      "Panasonic Q",
+      "Nintendo Wii",
+      "Nintendo Wii Mini",
+      "Nintendo Wii U",
+      "NES Classic Edition",
+      "SNES Classic Edition",
+      "Nintendo 3ds",
+      "Nintendo 2ds",
+      "Nintendo 3ds XL",
+      "New Nintendo 3ds",
+      "New Nintendo 3ds XL",
+      "Game & Watch",
+      "Game Boy",
+      "Virtual Boy",
+      "Game Boy Pocket",
+      "Game Boy Light",
+      "Game Boy Color",
+      "Game Boy Advance",
+      "Pokémon Mini",
+      "Game Boy Advance SP",
+      "Nintendo DS",
+      "Game Boy Micro",
+      "Nintendo DS Lite",
+      "Nintendo DSi",
+      "Nintendo DSi XL",
+      "Nintendo Switch",
+      "Nintendo Switch OLED",
+      "Nintendo Switch Lite"
+    ]
+  ]
+}
